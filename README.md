@@ -38,8 +38,8 @@ It provides **interactive insights, revenue predictions, and an AI assistant** u
 ## **⚙️ Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Aryan-Rajesh-Python/LLM-Powered Booking Analytics & QA System.git
-cd LLM-Powered Booking Analytics & QA System
+git clone https://github.com/Aryan-Rajesh-Python/LLM-Powered-Booking-Analytics-QA-System.git
+cd LLM-Powered-Booking-Analytics-QA-System
 ```
 
 ### **2️⃣ Create & Activate Virtual Environment (Optional)**

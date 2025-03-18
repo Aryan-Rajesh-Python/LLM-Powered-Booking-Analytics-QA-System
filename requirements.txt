@@ -1,0 +1,11 @@
+flask
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+prophet
+requests
+pillow
+google-generativeai

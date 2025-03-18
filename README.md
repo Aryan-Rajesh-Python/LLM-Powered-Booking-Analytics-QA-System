@@ -18,8 +18,7 @@ It uses **Flask (API)**, **Streamlit (UI)**, and **Google Gemini AI** to deliver
 ```
 📂 hotel_booking_analysis_project/
 │── 📄 app.py                 # Flask API (Backend)
-│── 📄 dashboard.py           # Streamlit UI (Frontend)
-│── 📂 venv/                  # Virtual Environment (Optional)
+│── 📄 dashboard.py           # Streamlit UI (Frontend)             
 │── 📄 hotel_bookings.csv      # Hotel Bookings Dataset
 │── 📄 requirements.txt        # List of Dependencies
 │── 📄 README.md               # Project Documentation
@@ -30,8 +29,8 @@ It uses **Flask (API)**, **Streamlit (UI)**, and **Google Gemini AI** to deliver
 ## **⚙️ Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/hotel-booking-analysis.git
-cd hotel-booking-analysis
+git clone https://github.com/Aryan-Rajesh-Python/LLM-Powered Booking Analytics & QA System.git
+cd LLM-Powered Booking Analytics & QA System
 ```
 
 ### **2️⃣ Create & Activate Virtual Environment (Optional)**
@@ -92,25 +91,10 @@ You can ask the chatbot **business-related questions**, such as:
 
 ---
 
-## **🌍 Deployment Guide**
-You can deploy the project using:
-✅ **Flask API** → [Render, Railway, Hugging Face Spaces]  
-✅ **Streamlit UI** → [Streamlit Cloud, Hugging Face Spaces]  
-
-Let me know if you need **detailed deployment steps!** 🚀
-
----
-
 ## **🤝 Contributing**
 Feel free to **fork the repo**, make improvements, and submit a pull request!  
 
 ---
 
-## **📜 License**
-This project is licensed under the **MIT License**.  
-
----
-
 🔥 **Enjoy your AI-powered hotel analytics system!** 🚀💪  
 Let me know if you need any more updates! 😎
-```

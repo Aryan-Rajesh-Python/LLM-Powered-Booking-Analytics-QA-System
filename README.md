@@ -1,16 +1,25 @@
 # 🏨 LLM-Powered Booking Analytics & QA System 🚀
 
-This project provides **advanced analytics, revenue forecasting, and an AI-powered chatbot** for hotel booking data.  
-It uses **Flask (API)**, **Streamlit (UI)**, and **Google Gemini AI** to deliver real-time insights.  
+## 🔥 Overview
+This is an **AI-powered hotel booking analytics & chatbot** application.  
+It provides **interactive insights, revenue predictions, and an AI assistant** using **Flask, Streamlit, and Gemini AI**.
+
+### 🌟 **Key Features**
+✅ **Real-Time Hotel Analytics** (Revenue, Cancellations, Top Countries)  
+✅ **AI Chatbot** (Ask booking-related questions using Gemini AI 🤖)  
+✅ **Revenue Forecasting** (Facebook Prophet predicts future revenue 📊)  
+✅ **Interactive Dashboard** (Streamlit-based UI for easy data visualization)  
+✅ **CSV Upload Support** (Update dataset dynamically in real-time 📂)  
 
 ---
 
-## **🚀 Features**
-✅ **Revenue Trends & Predictions** (Facebook Prophet Forecasting)  
-✅ **Hotel Booking Analytics** (Cancellations, lead time, top countries)  
-✅ **AI Chatbot for Insights** (Powered by Gemini-1.5-Pro)  
-✅ **Interactive Streamlit Dashboard** (Visualizations & Data Upload)  
-✅ **Flask API for Backend Processing**  
+## ⚙️ Tech Stack
+🔹 **Backend**: Flask (API)  
+🔹 **Frontend**: Streamlit (UI)  
+🔹 **AI Model**: Google Gemini 1.5 Pro  
+🔹 **Data Processing**: Pandas, NumPy  
+🔹 **Visualization**: Matplotlib, Seaborn  
+🔹 **Machine Learning**: Facebook Prophet  
 
 ---
 
